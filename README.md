@@ -2,7 +2,7 @@
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://mohammedhassain/happy-birthsabibha.io)
+#### [See it Live] https://mohammedhassain.github.io/happy-birthdaysabibha/
 
 
 
